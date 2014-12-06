@@ -15,6 +15,7 @@ public class LinkedList {
 
 	/**
 	 * @param args
+	 * the main method
 	 * the main method does all the manipulation needed to be done in the linked list 
 	 */
 	public static void main(String[] args) {

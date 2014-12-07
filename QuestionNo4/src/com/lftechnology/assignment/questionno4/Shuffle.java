@@ -13,6 +13,7 @@ import java.util.Scanner;
 
 
 /**
+ * javadoc
  * @author sudipshrestha
  * The Shuffle Class is responsible for generating a randomly inputed value as output as it 
  * uses list(Arrays.asList) and collections for it

@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author sudipshrestha
  * This class hold the integer arraylist shuffle top six and prints sorted output
- *
+ *Shuffle and SOrt
  */
 public class ShuffleAndSort {
 
